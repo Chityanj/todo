@@ -46,6 +46,6 @@ export default {
     open: false,
     contentBase: './dist',
     inline: true,
-    port: 4000,
+    port: 80,
   },
 };
